@@ -3,7 +3,7 @@
 Retrieves a list of protocol handlers from the registry.
 Some are fun like:
 - ms-cxh-full://0
-- ms-appinstaller
+- ms-appinstaller://
 
 
 ## Getting Started
