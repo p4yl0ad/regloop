@@ -44,6 +44,6 @@ Currently only supports
 - https://parsiya.net/blog/2021-03-17-attack-surface-analysis-part-2-custom-protocol-handlers/
 
 ### TODO
-- Fix if URL in (Default) key then take container name instead of weird slicing method 
+- ~~Fix if URL in (Default) key then take container name instead of weird slicing method~~
 - Add support for `Computer\HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\`
 - Implement checker to enum registered program / target 
