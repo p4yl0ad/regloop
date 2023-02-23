@@ -46,4 +46,4 @@ Currently only supports
 ### TODO
 - ~~Fix if URL in (Default) key then take container name instead of weird slicing method~~
 - Add support for `Computer\HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\`
-- Implement checker to enum registered program / target
+- Implement checker to enum registered program / target 
